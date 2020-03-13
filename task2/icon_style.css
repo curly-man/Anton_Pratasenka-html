@@ -1,0 +1,272 @@
+
+[class*='icon-']{
+    width: 48px;
+    height: 48px;
+    display: inline-block;
+    border-radius: 15px;
+    margin: 1%;
+    zoom: 55%;
+}
+
+.icon-1 {
+    background: url('./icons.png') no-repeat -32px -23px;
+}
+.icon-2 {
+	background: url('./icons.png') no-repeat -108px -22px;
+}
+.icon-3 {
+	background: url('./icons.png') no-repeat -184px -23px;
+}
+.icon-4 {
+	background: url('./icons.png') no-repeat -261px -23px;
+}
+.icon-5 {
+	background: url('./icons.png') no-repeat -337px -23px;
+}
+.icon-6 {
+	background: url('./icons.png') no-repeat -414px -23px;
+}
+.icon-7 {
+	background: url('./icons.png') no-repeat -491px -23px;
+}
+.icon-8 {
+	background: url('./icons.png') no-repeat -567px -23px;
+}
+.icon-9 {
+	background: url('./icons.png') no-repeat -644px -23px;
+}
+
+
+.icon-10 {
+	background: url('./icons.png') no-repeat -32px -107px;
+}
+.icon-11 {
+	background: url('./icons.png') no-repeat -108px -192px;
+}
+.icon-12 {
+	background: url('./icons.png') no-repeat -182px -278px;
+}
+.icon-13 {
+	background: url('./icons.png') no-repeat -261px -366px;
+}
+.icon-14 {
+	background: url('./icons.png') no-repeat -339px -450px;
+}
+.icon-15 {
+	background: url('./icons.png') no-repeat -416px -535px;
+}
+.icon-16 {
+	background: url('./icons.png') no-repeat -492px -620px;
+}
+.icon-17 {
+	background: url('./icons.png') no-repeat -569px -705px;
+}
+.icon-18 {
+	background: url('./icons.png') no-repeat -644px -790px;
+}
+
+
+.icon-19 {
+	background: url('./icons.png') no-repeat -32px -192px;
+}
+.icon-20 {
+	background: url('./icons.png') no-repeat -109px -192px;
+}
+.icon-21 {
+	background: url('./icons.png') no-repeat -184px -193px;
+}
+.icon-22 {
+	background: url('./icons.png') no-repeat -261px -192px;
+}
+.icon-23 {
+	background: url('./icons.png') no-repeat -338px -193px;
+}
+.icon-24 {
+	background: url('./icons.png') no-repeat -413px -192px;
+}
+.icon-25 {
+	background: url('./icons.png') no-repeat -491px -192px;
+}
+.icon-26 {
+	background: url('./icons.png') no-repeat -567px -192px;
+}
+.icon-27 {
+	background: url('./icons.png') no-repeat -644px -192px;
+}
+
+
+.icon-28 {
+	background: url('./icons.png') no-repeat -32px -278px;
+}
+.icon-29 {
+	background: url('./icons.png') no-repeat -107px -278px;
+}
+.icon-30 {
+	background: url('./icons.png') no-repeat -183px -278px;
+}
+.icon-31 {
+	background: url('./icons.png') no-repeat -261px -278px;
+}
+.icon-32 {
+	background: url('./icons.png') no-repeat -336px -278px;
+}
+.icon-33 {
+	background: url('./icons.png') no-repeat -413px -278px;
+}
+.icon-34 {
+	background: url('./icons.png') no-repeat -491px -278px;
+}
+.icon-35 {
+	background: url('./icons.png') no-repeat -567px -278px;
+}
+.icon-36 {
+	background: url('./icons.png') no-repeat -644px -278px;
+}
+
+
+.icon-37 {
+	background: url('./icons.png') no-repeat -33px -366px;
+}
+.icon-38 {
+	background: url('./icons.png') no-repeat -110px -366px;
+}
+.icon-39 {
+	background: url('./icons.png') no-repeat -185px -366px;
+}
+.icon-40 {
+	background: url('./icons.png') no-repeat -261px -366px;
+}
+.icon-41 {
+	background: url('./icons.png') no-repeat -339px -366px;
+}
+.icon-42 {
+	background: url('./icons.png') no-repeat -416px -366px;
+}
+.icon-43 {
+	background: url('./icons.png') no-repeat -491px -366px;
+}
+.icon-44 {
+	background: url('./icons.png') no-repeat -569px -366px;
+}
+.icon-45 {
+	background: url('./icons.png') no-repeat -644px -366px;
+}
+
+
+
+.icon-46 {
+	background: url('./icons.png') no-repeat -33px -450px;
+}
+.icon-47 {
+	background: url('./icons.png') no-repeat -110px -450px;
+}
+.icon-48 {
+	background: url('./icons.png') no-repeat -185px -450px;
+}
+.icon-49 {
+	background: url('./icons.png') no-repeat -261px -450px;
+}
+.icon-50 {
+	background: url('./icons.png') no-repeat -339px -450px;
+}
+.icon-51 {
+	background: url('./icons.png') no-repeat -416px -450px;
+}
+.icon-52 {
+	background: url('./icons.png') no-repeat -491px -450px;
+}
+.icon-53 {
+	background: url('./icons.png') no-repeat -569px -450px;
+}
+.icon-54 {
+	background: url('./icons.png') no-repeat -644px -450px;
+}
+
+
+
+.icon-55 {
+	background: url('./icons.png') no-repeat -33px -535px;
+}
+.icon-56 {
+	background: url('./icons.png') no-repeat -110px -535px;
+}
+.icon-57 {
+	background: url('./icons.png') no-repeat -185px -535px;
+}
+.icon-58 {
+	background: url('./icons.png') no-repeat -261px -535px;
+}
+.icon-59 {
+	background: url('./icons.png') no-repeat -339px -535px;
+}
+.icon-60 {
+	background: url('./icons.png') no-repeat -416px -535px;
+}
+.icon-61 {
+	background: url('./icons.png') no-repeat -491px -535px;
+}
+.icon-62 {
+	background: url('./icons.png') no-repeat -569px -535px;
+}
+.icon-63 {
+	background: url('./icons.png') no-repeat -644px -535px;
+}
+
+
+
+.icon-64 {
+	background: url('./icons.png') no-repeat -33px -620px;
+}
+.icon-65 {
+	background: url('./icons.png') no-repeat -110px -620px;
+}
+.icon-66 {
+	background: url('./icons.png') no-repeat -185px -620px;
+}
+.icon-67 {
+	background: url('./icons.png') no-repeat -261px -620px;
+}
+.icon-68 {
+	background: url('./icons.png') no-repeat -339px -620px;
+}
+.icon-69 {
+	background: url('./icons.png') no-repeat -416px -620px;
+}
+.icon-70 {
+	background: url('./icons.png') no-repeat -491px -620px;
+}
+.icon-71 {
+	background: url('./icons.png') no-repeat -569px -620px;
+}
+.icon-72 {
+	background: url('./icons.png') no-repeat -644px -620px;
+}
+
+
+.icon-73 {
+	background: url('./icons.png') no-repeat -33px -620px;
+}
+.icon-74 {
+	background: url('./icons.png') no-repeat -110px -620px;
+}
+.icon-75 {
+	background: url('./icons.png') no-repeat -185px -620px;
+}
+.icon-76 {
+	background: url('./icons.png') no-repeat -261px -620px;
+}
+.icon-77 {
+	background: url('./icons.png') no-repeat -339px -620px;
+}
+.icon-78 {
+	background: url('./icons.png') no-repeat -416px -620px;
+}
+.icon-79 {
+	background: url('./icons.png') no-repeat -491px -620px;
+}
+.icon-80 {
+	background: url('./icons.png') no-repeat -569px -620px;
+}
+.icon-81 {
+	background: url('./icons.png') no-repeat -644px -620px;
+}
