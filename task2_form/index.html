@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div class="form-container">
+        <header>
+            <article>
+                <h2>
+                    Form Action
+                    <a class="mc4wp">_mc4wp_action</a>
+                </h2>
+                <p>This field will allow your visitors to choose whether they wouldlike to subscribe ou unsubscribe
+                </p>
+            </article>
+        </header>
+
+        <section>
+            <form>
+                <div>
+                    <label for="formaction"><b>Field Label</b></label>
+                    <input class="text-input-form" type='text' name="formaction" value="Form Action">
+                </div>
+                <div>
+                    <label for="choicetype">
+                        <b>
+                            Choice Type
+                        </b>
+                    </label>
+                    <select class="change-input-form" name="choicetype">
+                        <option value="Radio buttons">
+                            Radio buttons
+                        </option>
+                    </select>
+                </div>
+                <div>
+                    <label>
+                        <b>
+                            Choices
+                        </b>
+                    </label>
+                    <div class="input-container">
+                        <div class="radio-input-container">
+                            <input type='radio' id="subscribe" name="radio-group" checked placeholder="Subscribe"></input>
+                            <label for="subscribe">
+                                <input class="radio-input-form" value="Subscribe"></input>
+                            </label>
+                            <button class="x-button"></button>
+                        </div>
+                        <div class="radio-input-container">
+                            <input type='radio' id="unsubscribe" name="radio-group" placeholder="Subscribe"></input>
+                            <label for="unsubscribe">
+                                <input class="radio-input-form" value="Unsubscribe"></input>
+                            </label>
+                            <button class="x-button"></button>
+                        </div>
+                    </div>
+                </div>
+                <div class="checkbox-container">
+                    <input type="checkbox" class="checkbox-style" name="checkbox">
+                    <label for="checkbox" >
+                        Wrap in paragraph tags?
+                    </label>
+                </div>
+                <button class="btn">
+                    Add to form
+                </button>
+            </form>
+        </section>
+    </div>
+</body>
+
+</html>
