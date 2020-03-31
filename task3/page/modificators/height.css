@@ -1,0 +1,64 @@
+.height-40 {
+    height: 60px;
+    overflow: hidden;
+}
+
+.height-400 {
+    height: 400px;
+    overflow: hidden;
+}
+
+.height-480 {
+    height: 480px;
+    overflow: hidden;
+}
+
+.height-658 {
+    height: 658px;
+    overflow: hidden;
+}
+
+@media screen, (min-width:992px) {
+    .height-372 {
+        height: 372px;
+        overflow: hidden;
+    }
+    .height-390 {
+        height: 390px;
+        overflow: hidden;
+    }
+    .height-420 {
+        height: 420px;
+        overflow: hidden;
+    }
+    .height-300 {
+        height: 300px;
+        overflow: hidden;
+    }
+}
+
+@media (max-width: 991px), (max-device-width: 991px) {
+    .height-300 {
+        height: 270px;
+        overflow: hidden;
+    }
+    .height-390 {
+        height: 380px;
+        overflow: hidden;
+    }
+    .height-420 {
+        height: 390px;
+        overflow: hidden;
+    }
+}
+
+@media screen and (max-device-width: 767px), (max-width: 767px) {
+    .height-300 {
+        height: 240px;
+        overflow: hidden;
+    }
+}
+
+.clear {
+    clear: both;
+}

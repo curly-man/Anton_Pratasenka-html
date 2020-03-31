@@ -1,0 +1,135 @@
+.content-head {
+    padding: 0 0 22px;
+}
+
+.header-large {
+    font-size: 42px;
+    font-weight: 300;
+    margin: 20px 0 0;
+    padding: 0 0 14px;
+}
+
+.header-normal {
+    font-size: 26px;
+    font-weight: 300;
+    line-height: 32px;
+    /* border: solid red; */
+}
+
+.title-normal {
+    font-size: 16px;
+    /* font-weight: 300; */
+    margin: 0 0 10px;
+}
+
+.title-small {
+    font-size: 14px;
+    font-weight: 300;
+    margin: 0 0 10px;
+}
+
+.content-body {
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 28px;
+    letter-spacing: 0.2px;
+    font-weight: 300;
+    margin: 0 0 10px;
+}
+
+.content-body__progress-info {
+    font-weight: bold;
+    padding: 0px 0px 8px;
+    font-size: 14px;
+}
+
+.content-body__progress-line {
+    background: #ffffff;
+    border-radius: 0px;
+    box-shadow: none;
+    height: 2px;
+    margin-bottom: 20px;
+}
+
+.content-body__progress-bar {
+    float: left;
+    height: 100%;
+    font-size: 12px;
+    line-height: 20px;
+    color: #fff;
+    text-align: center;
+    box-shadow: inset 0 -1px 0 rgba(0, 0, 0, .15);
+    transition: width .6s ease;
+}
+
+.content-input {
+    font-size: 14px;
+    font-family: 'Source Sans Pro', sans-serif;
+    padding: 10px 10px 10px 5px;
+    display: block;
+    background: transparent;
+    border-radius: 0px;
+    box-shadow: none;
+    color: white;
+    width: 95%;
+    border: none;
+    border-bottom: 1px solid #e4ae58;
+    opacity: 0.9;
+}
+
+.content-input:focus {
+    outline: none;
+    border-bottom: 1px solid #fff;
+}
+
+.content-input::placeholder {
+    color: white;
+}
+
+.content-button {
+    width: 40%;
+    height: 40px;
+    border-radius: 20px;
+    border: none;
+    outline: none;
+    transition: 0.5s;
+}
+
+.content-button:hover {
+    background-color: #e4ae58;
+    color: #fff;
+    border: solid #e4ae58;
+    transition: 0.5s;
+}
+
+.content-button:active {
+    box-shadow: -5px #e4ae58;
+    width: 37%;
+    margin-left: 2%;
+    transform: translateY(4px);
+}
+
+.content-button-outline {
+    display: block;
+    width: 30%;
+    height: 45px;
+    background-color: inherit;
+    border-radius: 20px;
+    outline: none;
+    border: solid #232b2b;
+    transition: 0.5s;
+}
+
+.content-button-outline:hover {
+    background-color: #e4ae58;
+    color: #fff;
+    border: solid #e4ae58;
+    transition: 0.5s;
+}
+
+.content-button-outline:active {
+    box-shadow: -5px #e4ae58;
+    width: 27%;
+    margin-left: 2%;
+    transform: translateY(4px);
+}

@@ -1,0 +1,11 @@
+.pos-right {
+    float: right;
+}
+
+.pos-left {
+    float: left;
+}
+
+.pos-center{
+    margin: auto;
+}

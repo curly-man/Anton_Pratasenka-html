@@ -1,0 +1,47 @@
+.text-center {
+    text-align: center;
+}
+
+.text-bold {
+    font-weight: bold !important;
+}
+
+.text-small{
+    font-size: 12px;
+}
+
+.text-normal{
+    font-size: 18px;
+}
+
+.text-large{
+    font-size: 24px;
+}
+
+.text-yellow {
+    color: #e4ae58;
+}
+
+.text-darkchocolate{
+    color: #623230;
+}
+
+.text-white {
+    color: white;
+}
+
+.text-dark {
+    color: #232b2b;
+}
+
+.text-black {
+    color: #000;
+}
+
+.text-light {
+    color: #333;
+}
+
+.text-lighter {
+    color: #888;
+}
