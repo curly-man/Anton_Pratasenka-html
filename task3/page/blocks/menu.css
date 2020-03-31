@@ -1,0 +1,27 @@
+.menu {
+    list-style-type: none;
+    position: fixed;
+    width: 100%;
+    margin: auto;
+    padding: 12px;
+    overflow: hidden;
+}
+
+.menu__item {
+    display: inline-block;
+    padding: 24px 16px;
+    text-decoration: none;
+}
+
+.menu__item:hover {
+    color: #e4ae58;
+}
+
+.menu__item:active {
+    transform: translateY(4px);
+}
+
+
+.active {
+    color: #e4ae58;
+}

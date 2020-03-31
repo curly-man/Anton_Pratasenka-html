@@ -1,0 +1,23 @@
+.bg-yellow {
+    background-color: #e4ae58;
+}
+
+.bg-orange {
+    background-color: #e9714c;
+}
+
+.bg-black {
+    background-color: #161616;
+}
+
+.bg-dark{
+    background-color: #232b2b;
+}
+
+.bg-light-gray{
+    background-color: #f0e2d7;
+}
+
+.bg-70{
+    opacity: 0.7;
+}

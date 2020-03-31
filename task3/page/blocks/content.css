@@ -1,0 +1,19 @@
+.content {
+    text-align: left;
+    padding: 22px 32px 32px;
+}
+
+.content-table {
+    display: table;
+    margin-bottom: 0px;
+}
+
+.table-cell {
+    display: table-cell;
+    vertical-align: top;
+}
+
+
+
+
+
